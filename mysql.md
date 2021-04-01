@@ -1,0 +1,1 @@
+-- ALTER TABLE `classroom`.`actividad_pregunta` ADD CONSTRAINT `fk_actividad_pregunta_status_1` FOREIGN KEY (`id_status`) REFERENCES `classroom`.`status` (`id`);
